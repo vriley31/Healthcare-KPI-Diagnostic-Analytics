@@ -133,6 +133,20 @@ Predicting LOS allows hospitals to:
 ## Sample Code
 
 ```python
+predictors = [
+    "Age",
+    "ComorbiditiesCount",
+    "AdmissionType",
+    "DRGSeverityLevel",
+    "DischargeDisposition",
+    "DRGCode",
+    "HospitalID"
+]
+
+df_model = df[[target] + predictors].dropna()
+print("Model dataset shape:", df_model.shape)
+
+
 import statsmodels.api as sm
 
 X_train_sm = sm.add_constant(X_train)
