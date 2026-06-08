@@ -177,11 +177,7 @@ Van De Steeg, L., & Wagner, C. (2014). *Can Preventable Adverse Events Be Predic
 
 Graduate Student | Data Analytics & Predictive Modeling
 
-Skills Demonstrated:
-- Predictive Analytics
-- Multiple Linear Regression
-- Statistical Analysis
-- Healthcare Analytics
-- Data Visualization
-- Python Programming
-- Business Intelligence
+GitHub: [@vriley31](https://github.com/vriley31)
+
+---
+⭐ If you found this project interesting, consider giving it a star!
